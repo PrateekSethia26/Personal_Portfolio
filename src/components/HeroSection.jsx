@@ -36,7 +36,8 @@ const HeroSection = () => {
         {/* Hero Image */}
         <div className="lg:col-span-2 rounded-lg overflow-hidden animate-fade-in">
           <img
-            src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800"
+            // src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800"
+            src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477"
             alt="Prateek"
             className="w-full h-auto object-cover rounded-lg shadow-lg"
           />

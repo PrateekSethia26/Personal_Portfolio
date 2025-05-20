@@ -59,7 +59,7 @@ const AboutSection = () => {
 
             <div>
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1pvM7WGFx-XOFB4FcuPEoQom9jWQAgVFU/view?usp=sharing"
                 download
                 className="primary-btn mt-6 inline-flex items-center"
               >
