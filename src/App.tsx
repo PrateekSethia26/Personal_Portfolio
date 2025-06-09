@@ -1,4 +1,3 @@
-
 import { ThemeProvider } from "./components/ThemeProvider";
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
@@ -25,8 +24,8 @@ const App = () => {
             <HeroSection />
             <AboutSection />
             <ProjectsSection />
-            <ExperienceSection />
-            <EducationSection />
+            {/* <ExperienceSection /> */}
+            {/* <EducationSection /> */}
             <ContactSection />
           </main>
           <Footer />
