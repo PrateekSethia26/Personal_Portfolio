@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-sm text-slate-500 dark:text-slate-400">
-              &copy; {currentYear} Prateek. All rights reserved.
+              &copy; {currentYear} All Rights Reserved.
             </p>
           </div>
 
